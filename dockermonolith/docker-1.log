@@ -1,0 +1,6 @@
+REPOSITORY                        TAG                                        IMAGE ID       CREATED              SIZE
+ubuntu-tmp-file                   latest                                     34c47f35527a   About a minute ago   63.1MB
+ubuntu                            18.04                                      ad080923604a   5 weeks ago          63.1MB
+hello-world                       latest                                     feb5d9fea6a5   9 months ago         13.3kB
+docker/dev-environments-default   stable-1                                   7c85b0303242   11 months ago        607MB
+docker/desktop-git-helper         5a4fca126aadcd3f6cc3a011aa991de982ae7000   efe2d67c403b   11 months ago        44.2MB
